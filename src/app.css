@@ -1,0 +1,16 @@
+body{
+background-color:lightblue;
+font-family: "Times New Roman";
+}
+#todo{
+    text-align: center;
+}
+ol{
+    list-style-position:inside;
+    text-align: center;
+    font-size: 24px;
+    margin-left: -40px;
+}
+input[type=text]{
+border-radius:5px;
+}
